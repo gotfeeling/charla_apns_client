@@ -1,0 +1,286 @@
+TMiEjemploPush
+v7
+r0
+t295461157.410372
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/Info.plist MiEjemploPush-Info.plist
+cCompileXIB /Developer/Projects/MiEjemploPush/MainWindow.xib
+cCompileXIB /Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib
+cCpResource build/Debug-iphonesimulator/MiEjemploPush.app/a.wav a.wav
+cProcessPCH /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch.gch MiEjemploPush_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/main.o /Developer/Projects/MiEjemploPush/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushAppDelegate.o /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushViewController.o /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush normal i386
+cGenerateDSYMFile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app.dSYM /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush
+cTouch /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app
+
+N/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.h
+c000000004BEC110C0000000000000206
+t1273762060
+s518
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m
+c000000004BEC295E0000000000000A69
+t1273768286
+s2665
+i<AudioToolbox/AudioToolbox.h>
+i"MiEjemploPushAppDelegate.h"
+i"MiEjemploPushViewController.h"
+
+N/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.h
+c000000004BEC110C0000000000000103
+t1273762060
+s259
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m
+c000000004BEC110C00000000000005D4
+t1273762060
+s1492
+i"MiEjemploPushViewController.h"
+
+N/Developer/Projects/MiEjemploPush/MainWindow.xib
+c000000004BEC112600000000000050AD
+t1273762086
+s20653
+
+N/Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib
+c000000004BEC110C0000000000001A5D
+t1273762060
+s6749
+
+N/Developer/Projects/MiEjemploPush/MiEjemploPush_Prefix.pch
+c000000004BEC110C00000000000000C3
+t1273762060
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Projects/MiEjemploPush/a.wav
+c000000004BEC27770000000000001F30
+t1273767799
+s7984
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app
+t1273768357
+s272
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app.dSYM
+t1273768357
+s102
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/Info.plist
+t1273768355
+s609
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MainWindow.nib
+t1273768356
+s1713
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush
+t1273768357
+s21096
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPushViewController.nib
+t1273768356
+s1269
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/PkgInfo
+t1273768355
+s8
+
+N/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/a.wav
+t1273768356
+s7984
+
+N/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPush.LinkFileList
+c000000004BEC29A300000000000001AE
+t1273768355
+s430
+
+N/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushAppDelegate.o
+t1273768357
+s45764
+
+N/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushViewController.o
+t1273768357
+s29972
+
+N/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/main.o
+t1273768357
+s5924
+
+N/Developer/Projects/MiEjemploPush/main.m
+c000000004BEC110C0000000000000172
+t1273762060
+s370
+i<UIKit/UIKit.h>
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B99753100000000000000EE
+t1268348209
+s238
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B2B4D4600000000001926A0
+t1261129030
+s1648288
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004B2B4D2F0000000000000A22
+t1261129007
+s2594
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026DB60
+t1261128899
+s2546528
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027D5E0
+t1261129160
+s2610656
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B50000000001670F70
+t1261134517
+s23531376
+
+N/var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch.gch
+t1273768356
+s13026768
+
+NMiEjemploPush-Info.plist
+c000000004BEC24820000000000000371
+t1273767042
+s881
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295461155#295461155#0(0"0(0#1#0"4300739032#0"0#
+
+CCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushAppDelegate.o /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295461157.000562
+e295461157.095867
+r1
+xCompileC
+xbuild/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushAppDelegate.o
+x/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m295461157#295461157#0(0"0(0#0#68"/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m4300739032#1952"    cd /Developer/Projects/MiEjemploPush    setenv LANG en_US.US-ASCII    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-generated-files.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-own-target-headers.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-all-target-headers.hmap -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-project-headers.hmap -F/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -I/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/include -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources/i386 -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources -include /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch -c /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushAppDelegate.m -o /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushAppDelegate.o0#
+
+CCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushViewController.o /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295461157.048780
+e295461157.134655
+r1
+xCompileC
+xbuild/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushViewController.o
+x/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m295461157#295461157#0(0"0(0#0#71"/Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m4300739032#1958"    cd /Developer/Projects/MiEjemploPush    setenv LANG en_US.US-ASCII    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-generated-files.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-own-target-headers.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-all-target-headers.hmap -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-project-headers.hmap -F/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -I/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/include -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources/i386 -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources -include /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch -c /Developer/Projects/MiEjemploPush/Classes/MiEjemploPushViewController.m -o /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPushViewController.o0#
+
+CCompileC build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/main.o /Developer/Projects/MiEjemploPush/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295461156.999754
+e295461157.048695
+r1
+xCompileC
+xbuild/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/main.o
+x/Developer/Projects/MiEjemploPush/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Developer/Projects/MiEjemploPush/main.m295461157#295461157#0(0"0(0#0#40"/Developer/Projects/MiEjemploPush/main.m4300739032#1904"    cd /Developer/Projects/MiEjemploPush    setenv LANG en_US.US-ASCII    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-generated-files.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-own-target-headers.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-all-target-headers.hmap -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-project-headers.hmap -F/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -I/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/include -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources/i386 -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources -include /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch -c /Developer/Projects/MiEjemploPush/main.m -o /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Projects/MiEjemploPush/MainWindow.xib
+s295461155.982213
+e295461156.255221
+r1
+xCompileXIB
+x/Developer/Projects/MiEjemploPush/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib295461155#295461156#0(0"0(0#0#48"/Developer/Projects/MiEjemploPush/MainWindow.xib4300739032#458"    cd /Developer/Projects/MiEjemploPush    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MainWindow.nib /Developer/Projects/MiEjemploPush/MainWindow.xib0#
+
+CCompileXIB /Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib
+s295461155.982852
+e295461156.443746
+r1
+xCompileXIB
+x/Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib
+lSLF07#2@42"CompileXIB MiEjemploPushViewController.xib295461155#295461156#0(0"0(0#0#65"/Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib4300739032#492"    cd /Developer/Projects/MiEjemploPush    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPushViewController.nib /Developer/Projects/MiEjemploPush/MiEjemploPushViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/MiEjemploPush.app/a.wav a.wav
+s295461156.255304
+e295461156.259782
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MiEjemploPush.app/a.wav
+xa.wav
+lSLF07#2@10"Copy a.wav295461156#295461156#0(0"0(0#0#39"/Developer/Projects/MiEjemploPush/a.wav4300739032#425"    cd /Developer/Projects/MiEjemploPush    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Projects/MiEjemploPush/a.wav /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app0#
+
+CGenerateDSYMFile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app.dSYM /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush
+s295461157.394020
+e295461157.408052
+r1
+xGenerateDSYMFile
+x/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app.dSYM
+x/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/MiEjemploPush.app.dSYM build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush295461157#295461157#0(0"0(0#0#93"/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush4300739032#371"    cd /Developer/Projects/MiEjemploPush    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/usr/bin/dsymutil /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush -o /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app.dSYM0#
+
+CLd /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush normal i386
+s295461157.134730
+e295461157.393916
+r1
+xLd
+x/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush
+xnormal
+xi386
+lSLF07#2@98"Link /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush295461157#295461157#0(0"0(0#0#0"4300739032#873"    cd /Developer/Projects/MiEjemploPush    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -F/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -filelist /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/Objects-normal/i386/MiEjemploPush.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/MiEjemploPush0#
+
+CProcessInfoPlistFile /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/Info.plist MiEjemploPush-Info.plist
+s295461155.972814
+e295461155.982132
+r1
+xProcessInfoPlistFile
+x/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/Info.plist
+xMiEjemploPush-Info.plist
+lSLF07#2@32"Process MiEjemploPush-Info.plist295461155#295461155#0(0"0(0#0#58"/Developer/Projects/MiEjemploPush/MiEjemploPush-Info.plist4300739032#472"    cd /Developer/Projects/MiEjemploPush    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MiEjemploPush-Info.plist -genpkginfo /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app/Info.plist0#
+
+CProcessPCH /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch.gch MiEjemploPush_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295461156.443850
+e295461156.999667
+r1
+xProcessPCH
+x/var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch.gch
+xMiEjemploPush_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile MiEjemploPush_Prefix.pch295461156#295461156#0(0"0(0#0#58"/Developer/Projects/MiEjemploPush/MiEjemploPush_Prefix.pch4300739032#1795"    cd /Developer/Projects/MiEjemploPush    setenv LANG en_US.US-ASCII    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /sdk4/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-generated-files.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-own-target-headers.hmap -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-all-target-headers.hmap -iquote /Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/MiEjemploPush-project-headers.hmap -F/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator -I/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/include -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources/i386 -I/Developer/Projects/MiEjemploPush/build/MiEjemploPush.build/Debug-iphonesimulator/MiEjemploPush.build/DerivedSources -c /Developer/Projects/MiEjemploPush/MiEjemploPush_Prefix.pch -o /var/folders/HV/HVZmiNu9EsejkBvMoLGJ8++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MiEjemploPush_Prefix-bquywlmzvkqptcbyxnozabtqlbkd/MiEjemploPush_Prefix.pch.gch0#
+
+CTouch /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app
+s295461157.408127
+e295461157.410341
+r1
+xTouch
+x/Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app
+lSLF07#2@85"Touch /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app295461157#295461157#0(0"0(0#0#0"4300739032#264"    cd /Developer/Projects/MiEjemploPush    setenv PATH "/sdk4/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/sdk4/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Projects/MiEjemploPush/build/Debug-iphonesimulator/MiEjemploPush.app0#
+
