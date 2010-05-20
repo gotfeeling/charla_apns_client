@@ -9,7 +9,7 @@
 	};
 	1D3623250D0F684500981E51 /* MiEjemploPushAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1205, 2106}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1205, 2119}}";
 			sepNavSelRange = "{6373, 0}";
 			sepNavVisRange = "{0, 3512}";
 		};
@@ -107,10 +107,11 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 295974560;
-			PBXWorkspaceStateSaveDate = 295974560;
+			PBXPerProjectTemplateStateSaveDate = 296035447;
+			PBXWorkspaceStateSaveDate = 296035447;
 		};
 		perUserProjectItems = {
+			D3829D0F11A52483008608BB /* PBXTextBookmark */ = D3829D0F11A52483008608BB /* PBXTextBookmark */;
 			D38D9C4E11A437220053BBE3 /* PBXTextBookmark */ = D38D9C4E11A437220053BBE3 /* PBXTextBookmark */;
 			D38F58AF11A3054700391E49 /* PBXTextBookmark */ = D38F58AF11A3054700391E49 /* PBXTextBookmark */;
 			D38F58B011A3054700391E49 /* PBXTextBookmark */ = D38F58B011A3054700391E49 /* PBXTextBookmark */;
@@ -118,7 +119,6 @@
 			D38F58B211A3054700391E49 /* PBXTextBookmark */ = D38F58B211A3054700391E49 /* PBXTextBookmark */;
 			D38F58B311A3054700391E49 /* PBXTextBookmark */ = D38F58B311A3054700391E49 /* PBXTextBookmark */;
 			D38F58B411A3054700391E49 /* PlistBookmark */ = D38F58B411A3054700391E49 /* PlistBookmark */;
-			D38F58B611A3054700391E49 /* PBXTextBookmark */ = D38F58B611A3054700391E49 /* PBXTextBookmark */;
 		};
 		sourceControlManager = D38B95E6119C489800F41891 /* Source Control */;
 		userBuildSettings = {
@@ -137,6 +137,16 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 195}";
 		};
+	};
+	D3829D0F11A52483008608BB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MiEjemploPushAppDelegate.m */;
+		name = "MiEjemploPushAppDelegate.m: 145";
+		rLen = 0;
+		rLoc = 6373;
+		rType = 0;
+		vrLen = 3512;
+		vrLoc = 0;
 	};
 	D38B95D6119C488C00F41891 /* MiEjemploPush */ = {
 		isa = PBXExecutable;
@@ -255,15 +265,5 @@
 		name = "/Developer/Projects/MiEjemploPush/MiEjemploPush-Info.plist";
 		rLen = 0;
 		rLoc = 9223372036854775808;
-	};
-	D38F58B611A3054700391E49 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* MiEjemploPushAppDelegate.m */;
-		name = "MiEjemploPushAppDelegate.m: 21";
-		rLen = 0;
-		rLoc = 490;
-		rType = 0;
-		vrLen = 3334;
-		vrLoc = 1866;
 	};
 }

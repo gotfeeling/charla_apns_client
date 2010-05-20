@@ -7,7 +7,7 @@ el Apple Push Notification  Service en el meetapp del 14 de Mayo del 2010.
 Instalaci—n
 -----------
 
-Hay que descargar el provisional profile al que est‡ asociado el proyecto.
+Hay que crear un provisional profile asociado el proyecto.
 
 Requiere conexi—n con el servidor.
 
